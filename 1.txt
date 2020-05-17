@@ -1,3 +1,4 @@
+
 https://www.louvre.fr/ 
 
 alert( "firstChild: " + document.head.firstChild )
@@ -5,7 +6,9 @@ alert( "nextSibling: " + document.head.nextSibling )
 alert( "lastElementChild: " + document.head.lastElementChild )
 alert( "class: " + document.body.getElementsByClassName("accessibility") )
 alert( "id: " + document.getElementById("header") )
-alert( "›ÎÂÏÂÌÚ ‚ÌÛÚË ˝ÎÂÏÂÌÚ‡: " + document.querySelector (" div.cycle-container > div.cycle-controls "))
-alert( "—ÂÎÂÍÚÓ Ì‡ ‡ÚË·ÛÚ: " + document.querySelector('[class="cycle"]') )
-alert( "œÒÂ‚‰ÓÍÎ‡ÒÒ: " + document.querySelector(':read-only') ) 
+alert( "–≠–ª–µ–º–µ–Ω—Ç –≤–Ω—É—Ç—Ä–∏ —ç–ª–µ–º–µ–Ω—Ç–∞: " + document.querySelector (" div.cycle-container > div.cycle-controls "))
+alert( "–°–µ–ª–µ–∫—Ç–æ—Ä –Ω–∞ –∞—Ç—Ä–∏–±—É—Ç: " + document.querySelector('[class="cycle"]') )
+alert( "–ü—Å–µ–≤–¥–æ–∫–ª–∞—Å—Å: " + document.querySelector(':read-only') ) 
+
+
 
