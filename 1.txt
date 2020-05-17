@@ -1,0 +1,11 @@
+https://www.louvre.fr/ 
+
+alert( "firstChild: " + document.head.firstChild )
+alert( "nextSibling: " + document.head.nextSibling )
+alert( "lastElementChild: " + document.head.lastElementChild )
+alert( "class: " + document.body.getElementsByClassName("accessibility") )
+alert( "id: " + document.getElementById("header") )
+alert( "Элемент внутри элемента: " + document.querySelector (" div.cycle-container > div.cycle-controls "))
+alert( "Селектор на атрибут: " + document.querySelector('[class="cycle"]') )
+alert( "Псевдокласс: " + document.querySelector(':read-only') ) 
+
